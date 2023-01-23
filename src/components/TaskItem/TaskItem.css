@@ -1,0 +1,23 @@
+.task-item{
+    width:100%;
+    height:auto;
+}
+.task{
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.task td{
+    padding: 10px;
+   font-family:  Raleway, sans-serif;
+   text-align: center;
+   text-transform: uppercase;
+   font-size: 15px;
+   border-bottom: 1px solid lightgrey;
+}
+.btn{
+     cursor: pointer;
+    }
+    
+
+   
